@@ -6,6 +6,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can speak Gaidhlig (Gaelic in English), I love to learn new instruments, and I have played gigs in the Barrowlands, and in all the concert halls in Glasgow!
 
+<h4>You can view my portfolio here! https://smudge04.github.io/NathanSmith.github.io/index.html<h4>
+
 <!---
 Smudge04/Smudge04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
